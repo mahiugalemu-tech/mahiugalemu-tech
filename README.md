@@ -70,6 +70,8 @@ A full-stack college discovery platform designed to help students search, explor
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL
 
+🌐 Live Demo: https://college-finder-ashen.vercel.app/
+
 💻 **[View Repository](https://github.com/mahiugalemu-tech/CollegeFinder)**
 
 ---
