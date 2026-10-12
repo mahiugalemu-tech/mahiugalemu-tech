@@ -10,7 +10,39 @@ I enjoy turning ideas into working products and learning through hands-on develo
 
 ## 🚀 Featured Projects
 
-### 🛒 1Fi Marketplace
+### 🌐 1. Personal Portfolio Website
+
+My personal portfolio website showcasing my projects, technical skills, and development journey in a modern, interactive design.
+
+- Personal introduction and professional profile
+- Featured projects and technical skills
+- Modern UI with animations and interactive elements
+- Responsive design for different screen sizes
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS
+
+🌐 **Live Website:** https://mahi-ugale-portfolio.vercel.app/
+
+---
+
+### 🤖 2. Universal AI API Hub
+
+A modern web platform focused on bringing AI API capabilities together through a unified, developer-friendly interface.
+
+- Modern, futuristic user interface
+- Developer-focused platform design
+- Foundation for exploring and integrating AI services
+- Built with a focus on scalability and user experience
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL (Neon)
+
+🌐 **Live Demo:** https://ai-api-hub-pi.vercel.app/
+
+💻 **[View Repository](https://github.com/mahiugalemu-tech/ai-api-hub)**
+
+---
+
+### 🛒 3. 1Fi Marketplace
 
 A responsive marketplace experience built as part of an SDE Intern technical assignment.
 
@@ -22,11 +54,11 @@ A responsive marketplace experience built as part of an SDE Intern technical ass
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS
 
-[View Repository](https://github.com/mahiugalemu-tech/1fi-marketplace)
+💻 **[View Repository](https://github.com/mahiugalemu-tech/1fi-marketplace)**
 
 ---
 
-### 🎓 CollegeFinder
+### 🎓 4. CollegeFinder
 
 A full-stack college discovery platform designed to help students search, explore, compare, and discover suitable colleges.
 
@@ -38,13 +70,18 @@ A full-stack college discovery platform designed to help students search, explor
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL
 
-[View Repository](https://github.com/mahiugalemu-tech/CollegeFinder)
+💻 **[View Repository](https://github.com/mahiugalemu-tech/CollegeFinder)**
 
 ---
 
-### 🤖 Assistive Communication App
+### 🧏 5. Assistive Communication App
 
 Currently developing an AI-powered assistive communication application as my major academic project.
+
+- Indian Sign Language (ISL) recognition research
+- Sign language landmark extraction and preprocessing
+- Machine learning model development for sign recognition
+- Focus on improving accessible communication
 
 **Status:** 🚧 In Development
 
@@ -62,10 +99,10 @@ Next.js · React · Tailwind CSS
 Node.js · Next.js API Routes · Prisma · PostgreSQL
 
 ### Tools
-Git · GitHub · VS Code
+Git · GitHub · VS Code · Vercel
 
 ### AI / Machine Learning
-Artificial Intelligence · Machine Learning · Natural Language Processing
+Artificial Intelligence · Machine Learning · Natural Language Processing · MediaPipe
 
 ---
 
@@ -91,6 +128,7 @@ Artificial Intelligence · Machine Learning · Natural Language Processing
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahi-ugale-62464b414/)
 - 🐙 [GitHub](https://github.com/mahiugalemu-tech)
+- 🌐 [Personal Portfolio](https://mahi-ugale-portfolio.vercel.app/)
 
 ---
 
